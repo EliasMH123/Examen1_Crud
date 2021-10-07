@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center|top"
+    tools:context=".Home">
+
+    <TextView
+        android:layout_marginLeft="-70dp"
+        android:layout_marginTop="70dp"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seleccionar"
+        android:textSize="30dp"
+        android:textColor="#278C6C"
+        />
+
+    <Button
+        android:layout_margin="40dp"
+        android:id="@+id/selectescuelas"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:backgroundTint="#40CDA0"
+        android:drawableLeft="@drawable/ic_baseline_account_balance_24"
+        android:fontFamily="serif-monospace"
+        android:text="Escuelas"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:cornerRadius="10dp"
+        app:strokeColor="#000000"
+        app:strokeWidth="1dp" />
+
+    <Button
+        android:layout_margin="20dp"
+        android:id="@+id/selectestudiantes"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:backgroundTint="#40CDA0"
+        android:drawableLeft="@drawable/ic_baseline_school_24"
+        android:fontFamily="serif-monospace"
+        android:text="Estudiantes"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:cornerRadius="10dp"
+        app:strokeColor="#000000"
+        app:strokeWidth="1dp" />
+
+</LinearLayout>

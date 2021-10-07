@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Examen1Moviles_Elias</string>
+    <!-- login -->
+    <string name="Login_txtCorreo">Correo:</string>
+    <string name="Login_txtUser">Usuario:</string>
+    <string name="Login_txtClave">Clave:</string>
+    <string name="confirmar_clave">Confirmar Clave:</string>
+    <string name="Login_btnEntrar">Ingresar</string>
+</resources>

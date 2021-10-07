@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161893015763",
+    "project_id": "examen1moviles-elias",
+    "storage_bucket": "examen1moviles-elias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161893015763:android:cd27638cbe2af5efac3426",
+        "android_client_info": {
+          "package_name": "com.example.examen1moviles_elias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161893015763-6p8qqp9cf1qn6rkk3vuhqcebd35a2evi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoyVvKrkr95N2JBWEPxj1S3gWH6zXKnxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161893015763-6p8qqp9cf1qn6rkk3vuhqcebd35a2evi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
